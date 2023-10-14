@@ -1,0 +1,77 @@
+body{
+    text-align: center !important;
+   position: relative;
+}
+.main1{
+    background-color: slateblue;
+}
+p{
+    margin-top: 10px;
+}
+.col-md-1{
+    border: 3px solid white;
+}
+.col-md-1:nth-child(2){
+    color: dodgerblue;
+}
+.col-md-1:nth-child(3){
+    color: dodgerblue;
+}
+.col-md-1:nth-child(4){
+    color: dodgerblue;
+}
+.col-md-1:nth-child(5){
+    color: dodgerblue;
+}
+.col-md-1:nth-child(6){
+    color: dodgerblue;
+}
+.col-md-1:nth-child(7){
+    color: dodgerblue;
+}
+.col-md-1:nth-child(8){
+    color: dodgerblue;
+}
+.col-md-1:nth-child(9){
+    color: dodgerblue;
+}
+.col-md-1:nth-child(10){
+    color: dodgerblue;
+}
+.col-md-1:nth-child(11){
+    color: dodgerblue;
+}
+.col-md-1:nth-child(12){
+    color: dodgerblue;
+}
+.col-md-4:nth-child(1){
+    border: 3px solid white;
+    height: 50px;
+    padding-top: 10px;
+    color: dodgerblue;
+}
+.col-md-4:nth-child(2){
+    color: dodgerblue;
+}
+.col-md-4:nth-child(3){
+    color: dodgerblue;
+}
+.col-md-8{
+    border: 3px solid white;
+}
+.col-md-8:nth-child(2){
+    color: dodgerblue;
+}
+.col-md-6{
+    border: 3px solid white;
+    height: 50px;
+    padding-top: 10px;
+}
+.col-md-6:nth-child(2){
+    color: dodgerblue;
+}
+.col-md-12{
+    border: 3px solid white;
+    height: 50px;
+    padding-top: 10px;
+}

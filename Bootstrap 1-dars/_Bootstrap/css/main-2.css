@@ -1,0 +1,44 @@
+body{
+    width: 1200px;
+    background-color: white;
+}
+.col-md-6{
+    width: 10px;
+    height: 40px;
+    border: 5px solid red;
+    text-align: center;
+    background-color: coral;
+    color: white;
+}
+.col-md-3{
+    width: 55px;
+    height: 40px;
+    border: 5px solid red;
+    text-align: center;
+    background-color: coral;
+    color: white;
+}
+.col-md-12{
+    width: 15px;
+    height: 40px;
+    border: 5px solid red;
+    text-align: center;
+    background-color: coral;
+    color: white;
+}
+.col-md-2{
+    width: 15px;
+    height: 40px;
+    border: 5px solid red;
+    text-align: center;
+    background-color: coral;
+    color: white;
+}
+.col-md-4{
+    width: 15px;
+    height: 40px;
+    border: 5px solid red;
+    text-align: center;
+    background-color: coral;
+    color: white;
+}

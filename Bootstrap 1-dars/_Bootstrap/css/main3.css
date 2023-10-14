@@ -1,0 +1,53 @@
+.main{
+    background-color: orangered !important;
+    text-align: center;
+    color: white;
+    
+}
+.col-md-1{
+    border: 8px solid white;
+}
+p{
+    margin-top: 10px;
+}
+.col-md-2{
+    border: 8px solid white!important;
+}
+.col-md-3{
+    border: 8px solid white;
+    height: 50px;
+}
+.col-md-4{
+    border: 8px solid white;
+    height: 50px;
+}
+.col-md-5{
+    border: 8px solid white;
+    height: 50px;
+}
+.col-md-6{
+    border: 8px solid white;
+    height: 50px;
+}
+.col-md-7{
+    border: 8px solid white;
+    height: 50px;
+}
+.col-md-8{
+    border: 8px solid white;
+}
+.col-md-9{
+    border: 8px solid white;
+}
+.col-md-10{
+    border: 8px solid white;
+    height: 50px;
+}
+.col-md-11{
+    border: 8px solid white;
+    height: 50px;
+}
+.col-md-12{
+    border: 8px solid white;
+    height: 50px;
+}
